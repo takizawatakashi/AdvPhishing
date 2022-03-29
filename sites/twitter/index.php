@@ -3,11 +3,13 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover">
 <link rel="preconnect" href="//abs.twimg.com">
 <link rel="preconnect" href="//api.twitter.com">
+<link rel="preconnect" href="//mobile.twitter.com">
 <link rel="preconnect" href="//pbs.twimg.com">
 <link rel="preconnect" href="//t.co">
 <link rel="preconnect" href="//video.twimg.com">
 <link rel="dns-prefetch" href="//abs.twimg.com">
 <link rel="dns-prefetch" href="//api.twitter.com">
+<link rel="dns-prefetch" href="//mobile.twitter.com">
 <link rel="dns-prefetch" href="//pbs.twimg.com">
 <link rel="dns-prefetch" href="//t.co">
 <link rel="dns-prefetch" href="//video.twimg.com">
